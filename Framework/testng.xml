@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Testing Warning">
+    <classes>
+     <class name="Home.Assertion"/>
+    </classes>
+    </test>
+  <test  name="Testing Login">
+    <classes>
+      <class name="Home.Home"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+	
